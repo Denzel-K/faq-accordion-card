@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:()
+- Solution URL:(https://www.frontendmentor.io/solutions/responsive-accordion-card-for-faqs-K5E1VOQmRB)
 
 ## My process
 
