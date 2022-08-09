@@ -1,7 +1,7 @@
 @media (max-width: 1440px){
     body {
         font-family:Verdana, Geneva, Tahoma, sans-serif;
-        background-image: linear-gradient(hsl(273, 75%, 70%) 40%, hsl(240, 73%, 60%));
+        background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
         color: hsl(238, 29%, 16%);
     }
     p {
@@ -11,7 +11,7 @@
         display: flex;
         height: 100%;
         padding: 100px 70px;
-        background-image: linear-gradient(hsl(273, 75%, 70%) 40%, hsl(240, 73%, 66%));
+        background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
         justify-content:center;
         align-items: center;
         align-content: center;
