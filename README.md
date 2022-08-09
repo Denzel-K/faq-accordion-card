@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot%202022-08-09%20at%2020-58-28%20Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
+![](images/Screenshot%202022-08-09%20at%2021-47-28%20Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
 
 ### Links
 

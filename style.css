@@ -7,20 +7,11 @@
     p {
         font-size:15px;
     }
-    h4 {
-        font-weight: 500;
-        font-size: 15px;   
-    }
-    h4:hover {
-        font-size: 15px;
-        font-weight: 600;
-    
-    }
     .accordion {
         display: flex;
         height: 100%;
         padding: 100px 70px;
-        background-image: linear-gradient(hsl(273, 75%, 70%) 40%, hsl(240, 73%, 60%));
+        background-image: linear-gradient(hsl(273, 75%, 70%) 40%, hsl(240, 73%, 66%));
         justify-content:center;
         align-items: center;
         align-content: center;
@@ -37,6 +28,7 @@
         background-position: left left;
         padding:  30px 55px;
         border-radius: 15px;
+        box-shadow: 0 0 50px 0 hsl(240, 73%, 10%);
     }
     .images, .inf0 {
        width: 50%;
@@ -56,20 +48,25 @@
     .img-desktop {
         width: 550px;
         position: relative;
-        right: 195px;
+        right: 190px;
     } 
-    .arrow {
-        padding: 16px;
-    }
     .faq {
         margin-bottom: 15px;
+    }
+    .title {
+        padding: 16px;
+
+    }
+    .arrow {
+        padding: 16px;
     }
     .question {
        display: flex;
        flex-direction: row;
+       font-size: 15px;
        justify-content: space-between;
        border: none;
-       padding: 0 20px;
+       padding: 5 20px;
        word-spacing: 5px;
        text-align:left;
     }
@@ -81,10 +78,11 @@
     }
     .question:active {
         color: hsl(14, 88%, 60%);
+        font-size: 15px;
+        font-weight: 600;
         cursor: pointer;
         transition-duration: 0.03s;
     }
-    
     .answer {
         display: none;
     }
